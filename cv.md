@@ -10,7 +10,7 @@
 My goal is to become a frontend developer React
 
 ## 3. Skills
-HTML,
+HTML, CSS, LESS, SCSS, JS
 
 ## 4. Code examples
 
